@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>27-ai: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Expected emitted tokens per verification</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">0</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">1.94</text>
+<text x="206.4" y="341" text-anchor="middle">20</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">3.89</text>
+<text x="324.8" y="341" text-anchor="middle">40</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">5.83</text>
+<text x="443.2" y="341" text-anchor="middle">60</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">7.78</text>
+<text x="561.6" y="341" text-anchor="middle">80</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">9.72</text>
+<text x="680.0" y="341" text-anchor="middle">100</text>
+<polyline points="88.00,293.25 117.60,291.84 147.20,290.28 176.80,288.53 206.40,286.57 236.00,284.37 265.60,281.88 295.20,279.06 324.80,275.87 354.40,272.26 384.00,268.17 413.60,263.55 443.20,258.33 472.80,252.44 502.40,245.82 532.00,238.39 561.60,230.08 591.20,220.80 620.80,210.46 650.40,198.98 680.00,186.26" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Four drafted tokens</text>
+<polyline points="88.00,293.25 117.60,291.84 147.20,290.28 176.80,288.53 206.40,286.56 236.00,284.33 265.60,281.79 295.20,278.85 324.80,275.43 354.40,271.40 384.00,266.61 413.60,260.83 443.20,253.80 472.80,245.16 502.40,234.43 532.00,221.04 561.60,204.21 591.20,182.98 620.80,156.14 650.40,122.19 680.00,79.26" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Eight drafted tokens</text>
+<text x="384" y="366" text-anchor="middle">Conditional acceptance (%)</text></g></svg>

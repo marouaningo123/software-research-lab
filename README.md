@@ -49,3 +49,9 @@ The first prototype target is Study 01. A durable baseline and a compacted ledge
 [Read the ten new protocols](PROTOCOLS_11_20.md) · [View model curves and data](wave2-results/README.md)
 
 Regenerate the second gallery with `python wave2_experiments.py`.
+
+## Wave 3 · AI studies 21–30
+
+[Read the AI protocols](PROTOCOLS_21_30.md) · [Open the AI graph gallery](ai-results/README.md)
+
+Regenerate these curves with `python ai_experiments.py`.

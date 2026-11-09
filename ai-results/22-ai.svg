@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>22-ai: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Illustrative request cost (units)</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">0</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">14</text>
+<text x="206.4" y="341" text-anchor="middle">20</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">28.1</text>
+<text x="324.8" y="341" text-anchor="middle">40</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">42.1</text>
+<text x="443.2" y="341" text-anchor="middle">60</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">56.2</text>
+<text x="561.6" y="341" text-anchor="middle">80</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">70.2</text>
+<text x="680.0" y="341" text-anchor="middle">100</text>
+<polyline points="88.00,227.41 117.60,220.00 147.20,212.59 176.80,205.19 206.40,197.78 236.00,190.37 265.60,182.96 295.20,175.56 324.80,168.15 354.40,160.74 384.00,153.33 413.60,145.93 443.20,138.52 472.80,131.11 502.40,123.70 532.00,116.30 561.60,108.89 591.20,101.48 620.80,94.07 650.40,86.67 680.00,79.26" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Selective repair</text>
+<polyline points="88.00,79.26 117.60,79.26 147.20,79.26 176.80,79.26 206.40,79.26 236.00,79.26 265.60,79.26 295.20,79.26 324.80,79.26 354.40,79.26 384.00,79.26 413.60,79.26 443.20,79.26 472.80,79.26 502.40,79.26 532.00,79.26 561.60,79.26 591.20,79.26 620.80,79.26 650.40,79.26 680.00,79.26" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Full repair</text>
+<text x="384" y="366" text-anchor="middle">Claims selected for repair (%)</text></g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>24-ai: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Chance of seeing disagreement (%)</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">0</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">21.6</text>
+<text x="206.4" y="341" text-anchor="middle">20</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">43.2</text>
+<text x="324.8" y="341" text-anchor="middle">40</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">64.8</text>
+<text x="443.2" y="341" text-anchor="middle">60</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">86.4</text>
+<text x="561.6" y="341" text-anchor="middle">80</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">108</text>
+<text x="680.0" y="341" text-anchor="middle">100</text>
+<polyline points="88.00,320.00 117.60,265.54 147.20,221.41 176.80,186.08 206.40,158.15 236.00,136.39 265.60,119.72 295.20,107.19 324.80,97.98 354.40,91.38 384.00,86.78 413.60,83.70 443.20,81.72 472.80,80.52 502.40,79.84 532.00,79.49 561.60,79.34 591.20,79.28 620.80,79.26 650.40,79.26 680.00,79.26" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Five independent samples</text>
+<polyline points="88.00,320.00 117.60,223.40 147.20,163.20 176.80,126.65 206.40,105.11 236.00,92.82 265.60,86.06 295.20,82.50 324.80,80.71 354.40,79.87 384.00,79.49 413.60,79.34 443.20,79.28 472.80,79.27 502.40,79.26 532.00,79.26 561.60,79.26 591.20,79.26 620.80,79.26 650.40,79.26 680.00,79.26" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Ten independent samples</text>
+<text x="384" y="366" text-anchor="middle">Per-sample disagreement probability (%)</text></g></svg>
