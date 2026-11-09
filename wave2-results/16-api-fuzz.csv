@@ -1,0 +1,8 @@
+Sequence depth,Four choices per step,Two choices per step
+1,4,2
+2,16,4
+3,64,8
+4,256,16
+5,1024,32
+6,4096,64
+7,16384,128

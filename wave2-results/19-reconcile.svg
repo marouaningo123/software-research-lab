@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>19-reconcile: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Estimated wire payload (KiB)</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">100</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">50.6</text>
+<text x="206.4" y="341" text-anchor="middle">680</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">101</text>
+<text x="324.8" y="341" text-anchor="middle">1.26e+03</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">152</text>
+<text x="443.2" y="341" text-anchor="middle">1.84e+03</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">203</text>
+<text x="561.6" y="341" text-anchor="middle">2.42e+03</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">253</text>
+<text x="680.0" y="341" text-anchor="middle">3e+03</text>
+<polyline points="88.00,311.98 108.41,303.95 128.83,295.93 149.24,287.90 169.66,279.88 190.07,271.85 210.48,263.83 230.90,255.80 251.31,247.78 271.72,239.75 292.14,231.73 312.55,223.70 332.97,215.68 353.38,207.65 373.79,199.63 394.21,191.60 414.62,183.58 435.03,175.56 455.45,167.53 475.86,159.51 496.28,151.48 516.69,143.46 537.10,135.43 557.52,127.41 577.93,119.38 598.34,111.36 618.76,103.33 639.17,95.31 659.59,87.28 680.00,79.26" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Sketch plus changed IDs</text>
+<polyline points="88.00,159.51 108.41,159.51 128.83,159.51 149.24,159.51 169.66,159.51 190.07,159.51 210.48,159.51 230.90,159.51 251.31,159.51 271.72,159.51 292.14,159.51 312.55,159.51 332.97,159.51 353.38,159.51 373.79,159.51 394.21,159.51 414.62,159.51 435.03,159.51 455.45,159.51 475.86,159.51 496.28,159.51 516.69,159.51 537.10,159.51 557.52,159.51 577.93,159.51 598.34,159.51 618.76,159.51 639.17,159.51 659.59,159.51 680.00,159.51" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Full inventory</text>
+<text x="384" y="366" text-anchor="middle">Difference size (keys)</text></g></svg>

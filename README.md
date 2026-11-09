@@ -43,3 +43,9 @@ The script regenerates CSV data and SVG figures in **results/**. Each example in
 | Independent review and replication | Pending |
 
 The first prototype target is Study 01. A durable baseline and a compacted ledger would receive the same crash and replay schedules. A duplicate business effect fails the experiment even if disk usage improves.
+
+## Wave 2 · Studies 11–20
+
+[Read the ten new protocols](PROTOCOLS_11_20.md) · [View model curves and data](wave2-results/README.md)
+
+Regenerate the second gallery with `python wave2_experiments.py`.
