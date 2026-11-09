@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>02-faults: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Distinct schedules</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">2</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">233</text>
+<text x="206.4" y="341" text-anchor="middle">4.8</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">467</text>
+<text x="324.8" y="341" text-anchor="middle">7.6</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">700</text>
+<text x="443.2" y="341" text-anchor="middle">10.4</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">933</text>
+<text x="561.6" y="341" text-anchor="middle">13.2</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">1.17e+03</text>
+<text x="680.0" y="341" text-anchor="middle">16</text>
+<polyline points="88.00,318.66 130.29,317.99 172.57,317.33 214.86,316.66 257.14,315.99 299.43,315.32 341.71,314.65 384.00,313.98 426.29,313.31 468.57,312.64 510.86,311.98 553.14,311.31 595.43,310.64 637.71,309.97 680.00,309.30" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Single fault</text>
+<polyline points="88.00,317.99 130.29,313.98 172.57,307.96 214.86,299.94 257.14,289.91 299.43,277.87 341.71,263.83 384.00,247.78 426.29,229.72 468.57,209.66 510.86,187.59 553.14,163.52 595.43,137.44 637.71,109.35 680.00,79.26" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Two distinct sites</text>
+<text x="384" y="366" text-anchor="middle">Eligible sites</text></g></svg>

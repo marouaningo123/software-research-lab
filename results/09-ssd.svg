@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>09-ssd: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Promotion ceiling (blocks/s)</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">1</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">12.2</text>
+<text x="206.4" y="341" text-anchor="middle">1.8</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">24.4</text>
+<text x="324.8" y="341" text-anchor="middle">2.6</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">36.6</text>
+<text x="443.2" y="341" text-anchor="middle">3.4</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">48.8</text>
+<text x="561.6" y="341" text-anchor="middle">4.2</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">61</text>
+<text x="680.0" y="341" text-anchor="middle">5</text>
+<polyline points="88.00,79.26 125.00,127.41 162.00,159.51 199.00,182.43 236.00,199.63 273.00,213.00 310.00,223.70 347.00,232.46 384.00,239.75 421.00,245.93 458.00,251.22 495.00,255.80 532.00,259.81 569.00,263.36 606.00,266.50 643.00,269.32 680.00,271.85" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Physical budget</text>
+<polyline points="88.00,79.26 125.00,79.26 162.00,79.26 199.00,79.26 236.00,79.26 273.00,79.26 310.00,79.26 347.00,79.26 384.00,79.26 421.00,79.26 458.00,79.26 495.00,79.26 532.00,79.26 569.00,79.26 606.00,79.26 643.00,79.26 680.00,79.26" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Logical budget only</text>
+<text x="384" y="366" text-anchor="middle">Physical write amplification</text></g></svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>08-php: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Review time (min)</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">0</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">97.2</text>
+<text x="206.4" y="341" text-anchor="middle">6</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">194</text>
+<text x="324.8" y="341" text-anchor="middle">12</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">292</text>
+<text x="443.2" y="341" text-anchor="middle">18</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">389</text>
+<text x="561.6" y="341" text-anchor="middle">24</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">486</text>
+<text x="680.0" y="341" text-anchor="middle">30</text>
+<polyline points="88.00,159.51 127.47,154.16 166.93,148.81 206.40,143.46 245.87,138.11 285.33,132.76 324.80,127.41 364.27,122.06 403.73,116.71 443.20,111.36 482.67,106.01 522.13,100.66 561.60,95.31 601.07,89.96 640.53,84.61 680.00,79.26" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">Review and rework</text>
+<polyline points="88.00,159.51 127.47,159.51 166.93,159.51 206.40,159.51 245.87,159.51 285.33,159.51 324.80,159.51 364.27,159.51 403.73,159.51 443.20,159.51 482.67,159.51 522.13,159.51 561.60,159.51 601.07,159.51 640.53,159.51 680.00,159.51" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Review only</text>
+<text x="384" y="366" text-anchor="middle">Rejected changes (of 100)</text></g></svg>

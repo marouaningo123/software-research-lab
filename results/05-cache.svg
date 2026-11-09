@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img">
+<title>05-cache: illustrative scenario</title>
+<rect width="720" height="420" fill="white"/>
+<g font-family="sans-serif" fill="#17233b" font-size="13">
+<text x="88" y="28" font-size="19">Backend regeneration (ms)</text>
+<path d="M88,320.0 H680" stroke="#dce3ec"/>
+<text x="80" y="324.0" text-anchor="end">0</text>
+<text x="88.0" y="341" text-anchor="middle">2</text>
+<path d="M88,268.0 H680" stroke="#dce3ec"/>
+<text x="80" y="272.0" text-anchor="end">3.45e+03</text>
+<text x="206.4" y="341" text-anchor="middle">7.6</text>
+<path d="M88,216.0 H680" stroke="#dce3ec"/>
+<text x="80" y="220.0" text-anchor="end">6.9e+03</text>
+<text x="324.8" y="341" text-anchor="middle">13.2</text>
+<path d="M88,164.0 H680" stroke="#dce3ec"/>
+<text x="80" y="168.0" text-anchor="end">1.04e+04</text>
+<text x="443.2" y="341" text-anchor="middle">18.8</text>
+<path d="M88,112.0 H680" stroke="#dce3ec"/>
+<text x="80" y="116.0" text-anchor="end">1.38e+04</text>
+<text x="561.6" y="341" text-anchor="middle">24.4</text>
+<path d="M88,60.0 H680" stroke="#dce3ec"/>
+<text x="80" y="64.0" text-anchor="end">1.73e+04</text>
+<text x="680.0" y="341" text-anchor="middle">30</text>
+<polyline points="88.00,79.26 130.29,105.71 172.57,122.83 214.86,142.31 257.14,157.13 299.43,168.13 341.71,181.23 384.00,190.89 426.29,201.64 468.57,207.89 510.86,219.81 553.14,226.81 595.43,232.95 637.71,241.98 680.00,249.24" fill="none" stroke="#0b62af" stroke-width="3"/>
+<text x="88" y="400" fill="#0b62af">LRU</text>
+<polyline points="88.00,156.53 130.29,186.44 172.57,213.40 214.86,221.19 257.14,230.82 299.43,240.98 341.71,252.07 384.00,257.79 426.29,262.00 468.57,266.47 510.86,269.95 553.14,277.71 595.43,280.40 637.71,282.84 680.00,287.03" fill="none" stroke="#ac4c14" stroke-width="3"/>
+<text x="333" y="400" fill="#ac4c14">Cost-aware admission</text>
+<text x="384" y="366" text-anchor="middle">Capacity (entries)</text></g></svg>
