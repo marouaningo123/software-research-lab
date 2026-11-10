@@ -55,3 +55,16 @@ Regenerate the second gallery with `python wave2_experiments.py`.
 [Read the AI protocols](PROTOCOLS_21_30.md) · [Open the AI graph gallery](ai-results/README.md)
 
 Regenerate these curves with `python ai_experiments.py`.
+
+## Runnable demonstration lab
+
+Run all 30 deterministic models, run a single study by number, or generate an offline dashboard. Python 3.10+ and its standard library are sufficient.
+
+```sh
+python run_lab.py
+python run_lab.py --study 21
+python run_lab.py --html demo-report.html
+python -m unittest -v
+```
+
+Open the generated HTML file in your browser and expand any study to inspect its observations. The models use small fixed fixtures to expose one mechanism or failure case. They do not run Symfony, RabbitMQ, GPUs or trained language models. Study 16 uses a fixed defensive API lifecycle contract check. Study 27 illustrates greedy verification only. Studies 25 and 30 demonstrate budget allocation and retention bookkeeping. The full protocols describe how to evaluate trained models and production-like systems.
